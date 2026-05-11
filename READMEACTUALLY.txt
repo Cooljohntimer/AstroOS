@@ -1,0 +1,1 @@
+commands: create: creates a file. cd: changes directory. mkdir: makes a directory. open: opens a file. help: lists the commands. info: gives info about this. echo: makes the system echo whatever word you put. exit: exits the environment. NOTE: you will need Python to run it. To run it, type python main.py in cmd. good luck :)
